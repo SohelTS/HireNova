@@ -5,9 +5,8 @@ A full-stack job portal built with the MERN stack where job seekers can find and
 
 ---
 
-## What I Built
 
-I wanted to build something real — not just a todo app. HireNova is a complete job portal with two user roles, a custom dark UI, JWT authentication, file uploads, and full deployment. It covers everything from user registration to employers downloading resumes.
+HireNova is a full job portal where employers post jobs and job seekers apply — built completely from scratch with the MERN stack and deployed live..
 
 ---
 
