@@ -312,7 +312,7 @@ export default function Landing() {
             </div>
             <span className="font-display font-bold text-white">HireNova</span>
           </div>
-          <p className="text-navy-500 text-sm">© 2024 HireNova. All rights reserved.</p>
+          <p className="text-navy-500 text-sm">© 2026 HireNova. All rights reserved.</p>
           <div className="flex gap-6">
             {['Privacy', 'Terms', 'Contact'].map((item) => (
               <a key={item} href="#" className="text-navy-500 hover:text-teal-400 text-sm transition-colors">{item}</a>
