@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'https://hirenova-lhos.onrender.com/api',
+  baseURL: 'https://hirenova-lhos.onrender.com/api',
   withCredentials: true,
 });
 
